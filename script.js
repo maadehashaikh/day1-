@@ -80,4 +80,4 @@ Async();
 
 // jab line by line code cahlta h to we say it is synchronous
 // jo bh code async nature ka ho usay side stack mai bhej do and agly code ko chalao jo bh sync nature ka ho ,jb bh sara sync code chal jay to check karo kay async code complete hua ya nh and agar woh complete hua hua ho to usay main stack mai dal do and chala do 
-// blob means 
+// blob means a piece of code that is raw 
