@@ -1,4 +1,4 @@
-// we are Goona learn some time here which is =>
+// we are Goona learn some things here which is =>
 // Fundamentals of javascript
 // arrays and objects 
 // functions rerturn
